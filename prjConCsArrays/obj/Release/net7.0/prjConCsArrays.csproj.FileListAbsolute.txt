@@ -1,0 +1,15 @@
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/bin/Release/net7.0/prjConCsArrays
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/bin/Release/net7.0/prjConCsArrays.deps.json
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/bin/Release/net7.0/prjConCsArrays.runtimeconfig.json
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/bin/Release/net7.0/prjConCsArrays.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/bin/Release/net7.0/prjConCsArrays.pdb
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.csproj.AssemblyReference.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.AssemblyInfoInputs.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.AssemblyInfo.cs
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.csproj.CoreCompileInputs.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/refint/prjConCsArrays.dll
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.pdb
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/prjConCsArrays.genruntimeconfig.cache
+/Users/nadadalbah/Repos/2023/LaSalle/Automne/420-AP1-AS/prjConCsArrays/prjConCsArrays/obj/Release/net7.0/ref/prjConCsArrays.dll
